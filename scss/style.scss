@@ -1,0 +1,47 @@
+/*
+ * Description: Desc
+ * Version: 1.0.0
+ * Last update: YYYY/MM/DD
+ * Author: User Name <username@gmail.com>
+ */
+
+/* ==========================================================================
+   Import External SCSS Files
+   ========================================================================== */
+
+/* Normalize SCSS */
+@import '../bower_components/foundation/scss/normalize.scss';
+
+/* Foundation SCSS */
+@import '../bower_components/foundation/scss/foundation.scss';
+
+/* Style SCSS */
+@import '_variable.scss';
+@import '_font.scss';
+@import '_common.scss';
+
+
+/* ==========================================================================
+   Begin Styles
+   ========================================================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+/* ==========================================================================
+   End Styles
+   ========================================================================== */
+
+/* Responsive SCSS */
+@import '_responsive.scss';
+
+/* Override SCSS */
+@import '_override.scss';

@@ -1,0 +1,29 @@
+/*
+ * Common re-useable classes
+ */
+.full-width {
+    width: 100%;
+    max-width: initial;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.no-horizontal-padding {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.no-verticle-padding {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.no-horizontal-margin {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.no-verticle-margin {
+    margin-top: 0;
+    margin-bottom: 0;
+}
